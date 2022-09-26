@@ -1,0 +1,63 @@
+{
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+    {
+      id: '123',
+      patrimony: '123456',
+      when: '20/10/2022 às 10:00',
+      status: 'open'
+    },
+
+    /home/cabrazil/Android/Sdk
+    /usr/lib/jvm/java-11-openjdk-amd64
+
+export JAVA_HOME=CAMINHO_ANOTADO_COM_SUA_VERSÃO
+export ANDROID_HOME=~/Android/Sdk
+export PATH=$PATH:$ANDROID_HOME/emulator
+export PATH=$PATH:$ANDROID_HOME/tools
+export PATH=$PATH:$ANDROID_HOME/tools/bin
+export PATH=$PATH:$ANDROID_HOME/platform-tools
+
+export PATH=$PATH:~/android-studio/bin
+
+Para execução da aplicação com a instalação do Firebase não vamos usar Expo Go
+Rodar com expo run:android
